@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>/home/ming/文档/Gridea/output</id>
+    <id>https://lijiam13.github.io/</id>
     <title>Gridea</title>
-    <updated>2022-07-18T08:52:36.535Z</updated>
+    <updated>2022-07-18T09:18:08.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="/home/ming/文档/Gridea/output"/>
-    <link rel="self" href="/home/ming/文档/Gridea/output/atom.xml"/>
+    <link rel="alternate" href="https://lijiam13.github.io/"/>
+    <link rel="self" href="https://lijiam13.github.io//atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>/home/ming/文档/Gridea/output/images/avatar.png</logo>
-    <icon>/home/ming/文档/Gridea/output/favicon.ico</icon>
+    <logo>https://lijiam13.github.io//images/avatar.png</logo>
+    <icon>https://lijiam13.github.io//favicon.ico</icon>
     <rights>All rights reserved 2022, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>/home/ming/文档/Gridea/output/post/hello-gridea/index.html</id>
-        <link href="/home/ming/文档/Gridea/output/post/hello-gridea/index.html">
+        <id>https://lijiam13.github.io//post/hello-gridea</id>
+        <link href="https://lijiam13.github.io//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
